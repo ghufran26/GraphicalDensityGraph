@@ -16,7 +16,7 @@ namespace MainFile
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Interface_Window());
+            Application.Run(new Circular_Graph_Main());
         }
     }
 }
