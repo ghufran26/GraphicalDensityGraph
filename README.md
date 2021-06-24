@@ -1,6 +1,6 @@
 # GraphicalDensityGraph
 
-The C# code implementation is my BIG Data course assignment which represent the graph in circular shape
+My BIG Data course assignment is a C# code implementation that represents the graph in a circular shape.
 
 Assignment: I developed a Desktop user interface on Visual studio with backend language C#
 
